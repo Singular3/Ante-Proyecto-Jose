@@ -1,10 +1,7 @@
 import React from 'react'
-
-
-import Evento from '../components/Evento'
 import ToDolist from '../components/ToDolist'
 
-function Home() {
+function ToDo() {
   return (
     <div>
 
@@ -14,4 +11,4 @@ function Home() {
   )
 }
 
-export default Home
+export default ToDo

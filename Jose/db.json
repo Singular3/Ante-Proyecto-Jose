@@ -1,4 +1,16 @@
 {
-    "users": []
-    
+  "users": [
+    {
+      "id": "7b98",
+      "nombre": "jose",
+      "correo": "jose",
+      "contraseña": "7890"
+    },
+    {
+      "id": "8366",
+      "nombre": "jose",
+      "correo": "joseQgmail.com",
+      "contraseña": "456678"
+    }
+  ]
 }
